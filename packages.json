@@ -1,0 +1,14 @@
+[
+    {
+        "package": "phenoptr",
+        "url": "https://github.com/akoyabio/phenoptr"
+    },
+    {
+        "package": "phenoptrReports",
+        "url": "https://github.com/akoyabio/phenoptrReports"
+    },
+    {
+        "package": "phenoptrExamples",
+        "url": "https://github.com/akoyabio/phenoptrExamples"
+    }
+]
